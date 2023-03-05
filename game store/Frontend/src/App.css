@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+}
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+  color:purple;
+}
+
+.shopping-card {
+  justify-content: space-between;
+  background-color:darkviolet;
+  padding: 20px 30px;
+  color: white;
+}
+
+.product-item {
+  padding: 20px;
+  
+}
+.cart-side{
+ 
+  color: blueviolet;
+}
+.success{
+  color: white;
+}
